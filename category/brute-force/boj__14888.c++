@@ -1,4 +1,4 @@
-// 19.12.30
+//  19.12.30
 // https://www.acmicpc.net/problem/14888
 // + - * / 각 0 1 2 3 으로 저장 후 순열 돌림.
 // minmax_element 함수는 <min, max> 순서로 포인터를 반환한다.
